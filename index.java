@@ -1,4 +1,3 @@
-:wq
 import java.util.Scanner;
 public class Main2 {
     public static void main(String[]args){
@@ -18,4 +17,3 @@ public class Main2 {
             default -> System.out.println("Error");
         }
     }
-       
